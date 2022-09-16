@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 &nbsp;I'm a 20 years old Data Arcitect currently working for Teleperformance responsible for Quality Section at Ibero Latam region.
-- 🌱 &nbsp;I’m currently learning about data structures and advanced algorithms applied to AI and ML.
+- 🌱 &nbsp;Learning about data structures and advanced algorithms applied to AI and ML.
 - 😄 &nbsp;Pronouns: she/her.
 - 🚫 &nbsp;NOTE: This is a private repository. NO EXTERNAL PEOPLE WILL BE ALLOWED.
 - ⚡ &nbsp;Fun fact: I'm a hug cinema fan.
