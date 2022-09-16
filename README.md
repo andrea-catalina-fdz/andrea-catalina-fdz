@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**andrea-catalina-fdz/andrea-catalina-fdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 &nbsp;I'm a 20 years old Data Arcitect currently working for Teleperformance responsible for Quality Section at Ibero Latam region.\
+- 🌱 &nbsp;I’m currently learning about data structures and advanced algorithms applied to AI and ML.\
+- 😄 &nbsp;Pronouns: she/her.\
+- 🚫 &nbsp;NOTE: This is a private repository. NO EXTERNAL PEOPLE WILL BE ALLOWED.\
+- ⚡ &nbsp;Fun fact: I'm a hug cinema fan.\
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠💻 &nbsp;My Technical Skills 
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=R)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
+
+
