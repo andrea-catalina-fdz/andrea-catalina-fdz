@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 &nbsp;I'm a 20 years old Data Arcitect currently working for Teleperformance responsible for Quality Section at Ibero Latam region.
+- 🔭 &nbsp;I'm a 20 years old Data Architect currently working for Teleperformance responsible for Quality Section at Ibero Latam region.
 - 🌱 &nbsp;Learning about data structures and advanced algorithms applied to AI and ML.
 - 😄 &nbsp;Pronouns: she/her.
 
